@@ -1,0 +1,10 @@
+check_id,area,result,source,approval
+Q-01,Priority scenario A,Pass,QA log,Reviewed
+Q-02,Priority scenario B,Pass,QA log,Reviewed
+Q-03,Priority scenario C,Pass,QA log,Reviewed
+Q-04,Priority scenario D,Pass,QA log,Reviewed
+Q-05,Priority scenario E,Fail,QA log,Pending retest
+Q-06,Priority scenario F,Not run,QA log,Pending
+DEP-01,Vendor integration patch,Estimated Thursday,Vendor statement,Unconfirmed
+REG-01,Full regression,Not complete,Test plan,Pending
+APP-01,Go/no-go authorization,Not recorded,Decision register,Pending

@@ -1,0 +1,8 @@
+story_id,sprint,estimate_points,status,blocked,dependency,note
+ST-101,7,8,Done,No,,Accepted by PO
+ST-102,7,5,Done,No,,QA verified
+ST-103,7,13,In Test,Yes,INT-04,Waiting for test interface
+ST-104,7,8,In Progress,No,,Development 80% reported; unverified
+ST-105,7,3,Not Started,Yes,UX-02,Design approval pending
+ST-106,7,5,Done,No,,Acceptance not yet confirmed
+ST-107,8,8,Planned,Yes,INT-04,Critical path status unknown
