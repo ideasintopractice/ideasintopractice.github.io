@@ -1,6 +1,0 @@
-id,type,description,owner,due_week,status,evidence,trigger
-R-01,Risk,Integration delay compresses test window,Integration Lead,15,Open,INT-04 not available in test,Not validated by week 15
-D-01,Dependency,Vendor patch and access approval,Vendor Manager,15,At risk,Vendor estimate conditional,Approval not confirmed by Tuesday
-I-01,Issue,One priority test scenario failed,QA Lead,14,Open,QA execution record,Retest fails
-A-01,Assumption,Regression can finish in three days,PM,16,Unvalidated,No historical duration supplied,Capacity evidence unavailable
-D-02,Dependency,Design signoff for ST-105,Product Owner,15,Open,Design review pending,No signoff by week 15

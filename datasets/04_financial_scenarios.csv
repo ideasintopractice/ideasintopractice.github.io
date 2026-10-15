@@ -1,7 +1,0 @@
-item,amount_usd,classification,note
-Approved cost baseline,600000,FACT,Illustrative approved baseline
-Actual cost to date,420000,FACT,Illustrative reconciled actuals
-Working estimate to complete,225000,ASSUMPTION,Requires Finance validation
-Contract revenue,750000,FACT,Illustrative fixed-price revenue
-Potential additional testing cost,30000,UNKNOWN,Scenario only; not approved or included in ETC
-Proposed recovery saving,12000,UNKNOWN,Scenario only; not committed
