@@ -1,0 +1,8 @@
+line_id,speaker,statement
+M01,Sponsor,"We need the launch decision by Friday; that is a decision deadline, not an approved launch date."
+M02,QA Lead,"Four of six priority scenarios passed. One failed, one was not executed."
+M03,Engineering Lead,The integration fix is deployed to test; we have not completed regression.
+M04,Vendor Manager,"Vendor estimates the interface patch will be ready Thursday, subject to access approval."
+M05,PM,I will confirm the access approval owner by Tuesday.
+M06,Finance Lead,The additional testing effort is not yet included in the cost forecast.
+M07,Sponsor,"Please present options, not a green status based on assumptions."
